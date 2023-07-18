@@ -1,4 +1,5 @@
 #copy of my leet code solution.
+#uses binary search approach.
 class Solution:
     def mySqrt(self, x: int) -> int:
         #lets create a possible range and search like binary tree.
